@@ -238,6 +238,7 @@ section {
 
 .team {
 	background: var(--CLOUD, #f4f4fd);
+	padding: 120px 0;
 }
 
 .team-title {
@@ -287,6 +288,8 @@ gap: 8px;
 	font-weight: 500;
 	line-height: 1.2;
 	letter-spacing: 0.4px;
+	text-align: center;
+	margin-bottom: 8px;
 }
 
 .team-item-desc {
@@ -295,6 +298,7 @@ gap: 8px;
 	font-weight: 400;
 	line-height: 1.5;
 	letter-spacing: 0.32px;
+	text-align: center;
 }
 
 /* Section 3 - Portfolio */
