@@ -36,11 +36,6 @@ p {
 	margin: 0;
 }
 
-ul {
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-}
 
 .container {
 	max-width: 1158px;
@@ -172,6 +167,7 @@ section {
 	border-radius: 4px;
 	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 	text-align: center;
+	margin: 0 auto 0;
 	
 }
 
@@ -257,9 +253,6 @@ section {
 
 .team-list {
 	display: flex;
-	column-gap: 24px;
-	text-align: center;
-	padding: 0px 156px 120px;
 	gap: 24px;
 }
 
@@ -361,11 +354,6 @@ border-top: none;
 
 .footer {
 	background: var(--NAVY-BLUE, #2e2f42);
-	display: inline-flex;
-	height: 24px;
-	align-items: center;
-	width: 1440px;
-	height: 312px;
 	padding: 100px 0;
 }
 
