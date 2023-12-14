@@ -245,7 +245,6 @@ section {
 	line-height: 1.11;
 	letter-spacing: 0.72px;
 	text-transform: capitalize;
-	padding-top: 120px;
 	margin-bottom: 72px;
 }
 
@@ -258,21 +257,10 @@ section {
 	flex-basis: calc((100% - 72px) / 4);
 	border-radius: 0px 0px 4px 4px;
 	background: var(--WHITE, #ffff);
-	display: inline-flex;
-	padding-bottom: 32px;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	gap: 32px;
 }
 
 .team-item-text {
 	padding: 32px 0;
-	display: flex;
-	width: 232px;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
 	gap: 8px;
 }
 
