@@ -235,6 +235,7 @@ section {
 .team {
 	background: var(--CLOUD, #f4f4fd);
 	padding: 120px 0;
+	
 }
 
 .team-title {
